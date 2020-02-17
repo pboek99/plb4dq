@@ -1,0 +1,19 @@
+Test
+
+Instructor Class
+
+addStudent() - check to make sure the instructor can add a student with valid student credentials and check student database
+can be found for query.
+                        Input - Student Credentials
+                        Target - Student Table in Database
+                        Output - Valid Database Entry
+
+removeStudent - remove all records of a student from a class they are no longer in.
+                        Input - Student Credentials
+                        Target - Student Table in Database
+                        Output - Removal of student in class database
+                        
+addSection() - add different section of the same course to allow more room for more students
+                        Input - Section number, meet time, location
+                        Target - Course in Database
+                        Output - New database entry to allow more room for students
