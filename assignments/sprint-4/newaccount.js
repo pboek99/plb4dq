@@ -13,15 +13,14 @@
     <h1>Register</h1>
     <form action="/register" method="post">
       <div>
-        <label for="username">Username</label>
+        <label>Username</label>
         <input>
       </div>
       <div>
-        <label for="password">Password</label>
+        <label>Password</label>
         <input>
       </div>
       <button type="submit">Register</button><br>
-         <a href = "/login">Login</a>
     </form>
    
   </body>
