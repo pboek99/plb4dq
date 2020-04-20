@@ -1,1 +1,1 @@
-
+The Apache 2.0 version license would probably be the license I am most conmofrtable using. In other classes I have used apache and have experience with it. As well as I have created ec-2 instances with Apache and have found the interface and interactions with it to be very smooth sailing and work very well. Reading throught the license as well it covers everything you would want taken care of when you are creating an open source project from redistribution all the way to additional liability. 
