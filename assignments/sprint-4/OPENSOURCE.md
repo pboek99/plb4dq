@@ -1,1 +1,1 @@
-
+After reading the articles it showed me that similar people around the worl share the same feelings about open source software as me. It brings all different view points on one project to make it better that it may not have been if it was stuck in a coperate business. It also is nice because all the people that do work on it you know want to be there because they chose that project and they genuinly care about the result and learning more. It is also a great networking oppurtunity to meet others and expand your knowledge of open source and software as a whole.
