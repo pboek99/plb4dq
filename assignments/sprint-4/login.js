@@ -11,7 +11,7 @@
   </head>
   <body>
     <h1>Login</h1>
-    <form action="/login" method="post">
+    <form>
       <div>
         <label>Username</label>
         <input>
@@ -21,7 +21,6 @@
         <input>
       </div>
       <button type="submit">Login</button><br>
-        <a href = "/register">Register</a>
     </form>
     
   </body>
