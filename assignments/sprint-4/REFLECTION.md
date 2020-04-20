@@ -1,1 +1,1 @@
-
+I went through all the examples you provided and did some research about them to see which one best suited me or sounded interesting. uPort and OpenID connect sounded a bit more complicated. I decided to go with OAuth, mainly because there are a lot of videos and articles that are very beneficial to use and figure it out. 
