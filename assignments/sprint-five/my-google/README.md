@@ -1,4 +1,4 @@
-# google-client-app
+# Payton Boekhout - plb4dq - Finished Google Login
 Flask, Flask-Login, Login with Google, App setup as Google Client
 
 Installation with Pipenv:
