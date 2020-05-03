@@ -1,1 +1,1 @@
-
+The purpose of this application is to allow any user to use a login to get to their google account that they have and once logged in it shows your profile picture at a larger scale. The core audience is anyone who has a google account that can log in using the premade google format of logging in and that want to see their profile picture in a larger scale. It displays data by showing the profile picture of the user on the screen which it collected from their log in to show them that data.
