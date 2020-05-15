@@ -1,4 +1,4 @@
-# Payton Boekhout - plb4dq - Finished Google Login
+# Payton Boekhout - plb4dq - Finished Google Login - Set up is same as previous sprint
 Flask, Flask-Login, Login with Google, App setup as Google Client
 
 Installation with Pipenv:
